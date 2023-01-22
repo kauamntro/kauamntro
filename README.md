@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-  🌱 I’m currently learning HTML5, CSS3 and JavaScript, to later become a Front end Developer, well that's it, Bye
+  🌱 I’m currently learning HTML, CSS and JavaScript, to later become a Front end Developer, well that's it, Bye
 
 <!--
 **kauamntro/kauamntro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
