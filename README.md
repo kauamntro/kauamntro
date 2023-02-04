@@ -1,6 +1,10 @@
 ### Hi there 👋
-  
-  🌱 I’m currently learning HTML, CSS and JavaScript, to later become a Front end Developer, well that's it, Bye
+
+Welcome to my Github Profile, my name is Kauã, and i studying programming languages a 4 months.
+
+- 🌱 I’m currently learning JavaScript.
+- 👯 I’m looking to collaborate on communities.
+- 📫 How to reach me: Discord (Kauã Monteiro#9552), Instagram (@kaua_adrielmn).
 
 <!--
 **kauamntro/kauamntro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
