@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Welcome to my Github Profile, my name is Kauã, and i studying programming languages a 4 months.
+Welcome to my Github Profile, my name is Kauã, and i studying programming languages a 6 months.
 
+- 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on communities.
 - 📫 How to reach me: Discord (Kauã Monteiro#9552), Instagram (@kaua_adrielmn).
