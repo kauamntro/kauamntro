@@ -5,7 +5,7 @@ Welcome to my Github Profile, my name is Kauã, and i studying programming langu
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on communities.
-- 📫 How to reach me: Discord (Kauã Monteiro#9552), Instagram (@kaua_adrielmn).
+- 📫 How to reach me: Discord (Kauã Monteiro#9552), Instagram (@code.kaua).
 - 💬 Ask me about Html, Css and JavaScript.
 <!--
 **kauamntro/kauamntro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
