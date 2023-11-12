@@ -3,7 +3,7 @@
 Welcome to my Github Profile, my name is Kauã.
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ReactJS, mySQL and NodeJS.
 - 👯 I’m looking to collaborate on communities.
 - 📫 How to reach me: Discord (Kauã Monteiro#9552), Instagram (@code.kaua).
 - 💬 Ask me about Html, Css and JavaScript.
